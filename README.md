@@ -36,8 +36,7 @@ A bot designed to automate transactions and bridge assets on the t3rn network, m
 
    ```json
    [
-     "your_private_key_1",
-     "your_private_key_2"
+     "your_private_key"
    ]
    ```
 
